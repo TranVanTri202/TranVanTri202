@@ -1,12 +1,14 @@
 <div align="center">
-  
-  # Trần Văn Trí
+
+  # TRẦN VĂN TRÍ
   ### Junior Backend Developer
 
+  <!-- Thanh liên hệ tối giản, đồng bộ kích thước -->
   <p align="center">
-    <a href="mailto:tranvantri270802@gmail.com"><img src="https://img.shields.io/badge/Email-tranvantri270802%40gmail.com-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white" /></a>
-    <a href="tel:0387653312"><img src="https://img.shields.io/badge/Phone-0387653312-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-    <a href="https://vantri.io.vn" target="_blank"><img src="https://img.shields.io/badge/Website-vantri.io.vn-17a2b8?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+    <a href="mailto:tranvantri270802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+    <a href="tel:0387653312"><img src="https://img.shields.io/badge/Phone-4CAF50?style=flat&logo=whatsapp&logoColor=white" /></a>
+    <a href="https://vantri.io.vn" target="_blank"><img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=microsoftedge&logoColor=white" /></a>
+    <a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   </p>
 
 </div>
