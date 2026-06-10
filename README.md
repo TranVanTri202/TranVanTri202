@@ -25,9 +25,7 @@ I am a **Backend Developer** with nearly 2 years of experience specializing in C
       <br/><br/>
       <img src="https://raw.githubusercontent.com/TranVanTri202/TranVanTri202/output/github-contribution-grid-snake.svg" alt="GitHub Snake/Pacman Contribution Graph" width="100%" />
     </td>
-    <td width="25%" align="center" valign="middle">
-      <img src="https://skillicons.dev/icons?i=bot&theme=dark" width="120px" alt="AI Bot Mascot" />
-    </td>
+  
   </tr>
 </table>
 
