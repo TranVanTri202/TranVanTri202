@@ -31,9 +31,6 @@ I am a **Backend Developer** with nearly 2 years of experience specializing in C
 ### 🛠️ Technical Skills
 
 <p align="left">
-  <!-- Dãy icon mặc định (đã bỏ chữ bullmq lỗi) -->
   <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,react,postgres,mysql,mongodb,redis,prisma,graphql,git,gitlab,docker,gcp&theme=dark" align="center" />
-  <!-- Icon BullMQ custom riêng, xếp liền hàng -->
-  <img src="https://img.shields.io/badge/BullMQ-FF3E00?style=for-the-badge&logo=redis&logoColor=white" height="48px" style="border-radius:10px; margin-left: -4px;" align="center" />
 </p>
 
