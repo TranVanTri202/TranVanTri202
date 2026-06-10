@@ -8,7 +8,7 @@
     <a href="mailto:tranvantri270802@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
     <a href="tel:0387653312"><img src="https://img.shields.io/badge/Phone-4CAF50?style=flat&logo=whatsapp&logoColor=white" /></a>
     <a href="https://vantri.io.vn" target="_blank"><img src="https://img.shields.io/badge/Website-0078D4?style=flat&logo=microsoftedge&logoColor=white" /></a>
-    <a href="https://linkedin.com/in/your_linkedin" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+    <a href="https://facebook.com/trivan2002" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white" /></a>
   </p>
 
 </div>
@@ -32,6 +32,6 @@ I am a **Backend Developer** with nearly 2 years of experience specializing in C
 ### 🛠️ Technical Skills
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,react,postgres,mysql,mongodb,redis,prisma,graphql,git,gitlab,docker,gcp&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,nodejs,nestjs,react,postgres,mysql,mongodb,redis,prisma,graphql,git,gitlab,docker,bullmq,gcp&theme=dark" />
 </p>
 
